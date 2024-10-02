@@ -17,7 +17,7 @@ This is a simple calculator Android application built using Java in Android Stud
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/AdityaSrivastavDS/Calculator(Android App)
+    git clone https://github.com/AdityaSrivastavDS/Calculator-Android-App-
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
@@ -27,7 +27,7 @@ This is a simple calculator Android application built using Java in Android Stud
 - Enter numbers using the on-screen keypad.
 - Perform operations by tapping on the corresponding operator buttons (`+`, `-`, `×`, `÷`).
 - View the result in the display area.
-- Use the `C` button to clear the input and start a new calculation.
+
 
 ## Requirements
 
